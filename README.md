@@ -2,8 +2,8 @@
 
 **_You can follow the css file to understand the tailwind css_**
 
-![web](web.png)
+![web](image/web.png)
 
-![graphics](graphics.png)
+![graphics](image/graphics.png)
 
-![photography](photography.png)
+![photography](image/photography.png)
